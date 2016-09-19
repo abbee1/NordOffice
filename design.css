@@ -13,6 +13,9 @@
     background-color: #e7e7e7;
     color: #000;
 }
+.navbar-nav li:active a{
+    color: #fff;
+}
 body{
     padding-top: 50px;
 }
@@ -21,4 +24,13 @@ body{
 }
 h1 small{
     color: #000;
+}
+#kategori{
+    color: #000;
+}
+#jumbotronPadding{
+    padding-bottom: 20px;
+}
+#bilder{
+    
 }

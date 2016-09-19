@@ -5,4 +5,7 @@
  */
 
 
-alert("Albin");
+function onclick(){
+    var info = document.getElementById(info);
+    info.onclick(sidor/information/information.html);
+}
