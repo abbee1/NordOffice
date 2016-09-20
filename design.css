@@ -7,17 +7,18 @@
     
 }
 .nav.navbar-nav li a{
-    color: #fff;
+    color: #fff !important;
 }
 .nav.navbar-nav li a:hover{
     background-color: #e7e7e7;
-    color: #000;
+    color: #000 !important;
 }
 .navbar-nav li:active a{
     color: #fff;
 }
 body{
     padding-top: 50px;
+    padding-bottom: 50px;
 }
 .jumbotron{
     color: #102169;
@@ -30,7 +31,4 @@ h1 small{
 }
 #jumbotronPadding{
     padding-bottom: 20px;
-}
-#bilder{
-    
 }
