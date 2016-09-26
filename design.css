@@ -46,3 +46,12 @@ h1 small{
 .navbar-brand{
     color: #fff !important;
 }
+.img-size{
+    height: 70%;
+    width: 70%;
+        
+}
+.kategoriStorlek{
+    font-size: 20px;
+    color: #000;
+}
