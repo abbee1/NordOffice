@@ -43,3 +43,6 @@ h1 small{
     height: auto;
     width: 100%;
 }
+.navbar-brand{
+    color: #fff !important;
+}
